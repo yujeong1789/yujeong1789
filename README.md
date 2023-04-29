@@ -4,7 +4,7 @@
   <br>
   <br>
   <br>
-  <h1>📎 Stats</h1>
+  <h2>📎 Stats</h2>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujeong1789&show_icons=true&theme=vue)
   <br>
