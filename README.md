@@ -2,7 +2,7 @@
   <h3>✨Hello, I'm Yujeong Park✨</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=yujeong1789&show_icons=true&theme=vue">
   <br><br><br>
-  <b>Stacks🛠️</b><br><br>
+  <h3>Stacks🛠️</h3>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
